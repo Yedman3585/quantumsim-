@@ -1,0 +1,6 @@
+# Sign Flip on Specific Basis State
+init q[0]; init q[1];
+h q[0:1];   # Equal superposition
+Sign 3;     # Flip sign of |11⟩
+measure q[0:1];
+verbose 1;
