@@ -1,0 +1,8 @@
+# Multi-Qubit Operations
+init q[0:2];
+h q[0];
+cx q[0], q[1];
+csk q[1], q[2], 8;  # Nested controlled gates
+measure q[0:2];
+verbose 1;
+Inverse_P_threshold 100;  # Filter low-probability outputs
