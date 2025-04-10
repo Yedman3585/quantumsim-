@@ -1,0 +1,7 @@
+# Fractional Phase Gates
+init q[0];
+h q[0];
+sk q[0], 8;  # S(π/8) gate
+sk q[0], 4;  # S(π/4) = S gate
+measure q[0];
+verbose 1;
