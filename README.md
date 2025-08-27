@@ -1,4 +1,4 @@
-![QuantumSimulator Banner](v3epY/v3epY.png)
+![QuantumSimulator Banner](./v3epY.png)
 
 
 [//]: # (![QuantumSimulator Banner]&#40;assets.png&#41;)
@@ -49,7 +49,7 @@ Your log shows this exactly four times, which is optimal for N=32:
 Marks all five qubits to be measured, then the post-processing prints the marginal probabilities and
 conditional states.
 
-![GroverExample](graph/graphick.png)
+![GroverExample](./graphick.png)
 
 Initial state:
 [1.+0.j]
@@ -299,3 +299,4 @@ deliverables were not ideal for sharing or extending. 😺😺😺
 
 
 > **NOTE** : The complete technical explanation of project and some theoretical foundations in pdf file attached.
+
