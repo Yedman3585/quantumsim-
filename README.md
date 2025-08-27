@@ -1,4 +1,4 @@
-![QuantumSimulator Banner](assets/v3epY.png)
+![QuantumSimulator Banner](v3epY/v3epY.png)
 
 
 [//]: # (![QuantumSimulator Banner]&#40;assets.png&#41;)
@@ -296,5 +296,6 @@ Process finished with exit code 0
 This quantum simulator began as a student research project for the Scientific-Research Work of Students (НИРС).  
 The competition’s documentation template emphasized formal reporting more than reproducible code, so the original
 deliverables were not ideal for sharing or extending. 😺😺😺
+
 
 > **NOTE** : The complete technical explanation of project and some theoretical foundations in pdf file attached.
